@@ -2,7 +2,7 @@
 
 spawn sudo apt-get install curl
 
-set timeout 10
+set timeout -1
 
 
 expect "*Y/n*"
