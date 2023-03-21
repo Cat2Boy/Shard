@@ -3,9 +3,9 @@
 # sudo apt-get install tcl tk expect && echo "安装expect完成!"
 
 
-sudo apt-get install expect && echo "第1步完成!"
+#sudo apt-get install expect && echo "第1步完成!"
 
-sudo apt update && apt upgrade -y && echo "第2步完成!"
+#sudo apt update && apt upgrade -y && echo "第2步完成!"
 
 sudo apt-get install curl && echo "第3步完成!"
 
