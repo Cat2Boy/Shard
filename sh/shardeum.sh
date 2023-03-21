@@ -7,7 +7,8 @@
 
 #sudo apt update && apt upgrade -y && echo "第2步完成!"
 
-sudo apt-get install curl && echo "第3步完成!"
+#sudo apt-get install curl && echo "第3步完成!"
+sudo expect /home/ubuntu/new/sh/three.sh && echo "第3步完成!"
 
 
 sudo apt update && echo "第4步完成!"
